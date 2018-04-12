@@ -32,6 +32,6 @@ node_modules
 .Spotlight-V100
 .Trashes
 
-/cjs
-/umd
-/es
+# /cjs
+# /umd
+# /es
